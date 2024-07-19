@@ -5,7 +5,7 @@ Jogo desenvolvido com os cursos de Lógica de Programação da Alura em parceria
 
 ## Ferramentas utilizadas:
 * JavaScript
-* * Condicionais e concatenação
+  * Condicionais e concatenação
   * Loops e tentativas
   * Funções
   * Boas práticas de programação
